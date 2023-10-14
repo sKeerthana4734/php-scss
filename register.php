@@ -15,7 +15,7 @@ if(isset($_SESSION["register"]) && isset($_SESSION["message"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
-    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./scss/styles.css">
 </head>
 <body>
   <div class="container">

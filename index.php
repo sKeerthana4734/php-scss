@@ -11,7 +11,7 @@ if(isset($_SESSION["id"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Page</title>
-    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./scss/styles.css">
 </head>
 <body>
   <div class="container">
